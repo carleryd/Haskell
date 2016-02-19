@@ -1,0 +1,9 @@
+##############################  Haskell ##############################
+ghc 
+    is an optimizing compiler that generates fast native code.
+ghci 
+    is an interactive interpreter and debugger.
+runghc 
+    is a program for running Haskell programs as scripts, without needing to compile them first.
+
+
